@@ -1,3 +1,6 @@
+//25.02.04
+
+
 #include <stdio.h>
 //<>: include path
 #include "func.h"
